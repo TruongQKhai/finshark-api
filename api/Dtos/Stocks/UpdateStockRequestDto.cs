@@ -1,4 +1,4 @@
-﻿namespace api.Dtos;
+﻿namespace api.Dtos.Stocks;
 
 public class UpdateStockRequestDto
 {
